@@ -1,0 +1,16 @@
+/* CSS */
+
+body {
+
+
+background-size: 100%;
+background-blend-mode: hard-light;
+}
+
+#portada {
+	padding-top: 95px;
+	border: 5px, solid;
+}
+body ul{
+	margin-top:123px !important; 
+}
